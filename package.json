@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "https://ion387.github.io/SocialNetWork/",
+  "homepage": "https://gitname.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
