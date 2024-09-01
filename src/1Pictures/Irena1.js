@@ -1,0 +1,1 @@
+export const irena1="https://avatars.mds.yandex.net/i?id=1888009cd5adfeaa3ef9bdf93580568c78c2759e-8199407-images-thumbs&n=13"

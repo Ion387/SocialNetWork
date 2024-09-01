@@ -1,0 +1,29 @@
+.index {
+  background-color: rgb(142, 142, 216);
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif ;
+  font-size: 20px;
+  grid-area:c;
+  width: 1000px;
+  display: grid;
+grid-template-columns: 2fr 10fr;
+}
+
+.name {
+  color: blue;
+} 
+.name .active{
+  color: gold;
+} 
+
+.messages {
+color: white;
+background-color: blue;
+}
+
+
+
+
+/*.item a:active, .item a:focus  {
+  color: gold;
+  } */

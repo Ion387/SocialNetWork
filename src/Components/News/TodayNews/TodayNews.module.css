@@ -1,0 +1,7 @@
+.index {
+  text-align: center;
+  color: black;
+  background-color: aliceblue;
+display: grid;
+grid-template-columns: 5fr 30fr;
+}

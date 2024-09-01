@@ -1,0 +1,18 @@
+.nav {
+  grid-area:n;
+  background-color: rgb(118, 192, 158);
+  padding: 0px 60px;
+}
+
+a{
+color: white;
+text-decoration: none;
+}
+
+.active {
+  color:gold
+}
+/* разные варианты подсвечивания ссылок .item a:active, .item a:focus  {
+  color: gold;
+  } */
+
