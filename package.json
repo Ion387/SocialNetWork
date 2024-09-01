@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "http://Ion387.github.io/SocialNetwork/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
